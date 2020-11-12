@@ -1,2 +1,2 @@
 # hello-world
-testing this out
+I'm a designer new to GitHub, and I like it.
